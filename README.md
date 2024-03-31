@@ -11,7 +11,7 @@ Prior to pursuing my degree in Computer Science at the University of Illinois at
 * 🚀  I'm currently working on [my own web page!](http://github.com/seanmj3/Website-Project/tree/main/WebsiteProject)
 * 🧠  I'm learning React and JavaScript
 * 🤝  I'm open to collaborating on any open source project that automates trading
-* ⚡  I love playing World of Warcraft
+* ⚡  I love playing Chess
 
 ### Skills
 
