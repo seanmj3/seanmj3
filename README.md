@@ -8,7 +8,7 @@ Prior to pursuing my degree in Computer Science at the University of Illinois at
 
 * 🌍  I'm based in Chicago, IL
 * ✉️  You can contact me at [seanjames9903@gmail.com](mailto:seanjames9903@gmail.com)
-* 🚀  I'm currently working on [my own web page!](http://github.com/seanmj3/Website-Project/tree/main/WebsiteProject)
+* 🚀  I'm currently working on [my own web page!]([http://github.com/seanmj3/Website-Project/tree/main/WebsiteProject](https://github.com/seanmj3/My-Web-Hub))
 * 🧠  I'm learning React and JavaScript
 * 🤝  I'm open to collaborating on any open source project that automates trading
 * ⚡  I love playing Chess
